@@ -1,0 +1,9 @@
+# Notations
+
+Equivalent symbols
+≈ 
+
+Arrows
+← ↑ → ↓
+↖ ↗ ↙ ↘
+↕ ↔ 
