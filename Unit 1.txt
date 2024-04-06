@@ -2,7 +2,7 @@
 
 ## Unit 1
 
-1. -bene: good, well
+# 1. -bene: good, well
 
 * benefit
 + [n]: an advantage or profit gained from something.
@@ -54,7 +54,7 @@
 * benediction
 + [n]
 
-2. -am: love
+# 2. -am: love
 
 * amiable
 + [adj]: friendly
@@ -85,7 +85,7 @@
 + [n]
 - He wished to live in amity with his neighbor.
 
-3. -bell: war
+# 3. -bell: war
 
 * Bellona
 + [n]: Goddess of war
@@ -126,15 +126,14 @@
 * bellipotent
 + [adj]: High level of war ability
 
-* casus belli 
+* casus belli (from French)
 + [n]: an act or situation that provokes or justifies a war.
-+ from French
 
-4. -pac: peace
+# 4. -pac: peace
 
 * pacific
-+ [adj]: making or tending to make peace, appeasing, conciliatory.
-+ [adj]: of a peaceful nature or disposition, not warlike, mild, tranquil, calm.
++ [adj]: making or tending to make peace; appeasing; conciliatory.
++ [adj]: of a peaceful nature or disposition; not warlike; mild; tranquil; calm.
 - the Pacific Ocean
 - pacific ↔ bellicose
 
@@ -161,54 +160,119 @@
 + [v]
 - They attempted to appease international opposition.
 
-* pace ['peɪs]
+* pace ['peɪs] (from Latin)
++ [prep]: politely disagree or contrast with someone's view, no offense; with respect; notwithstanding.0
+≈ excuse me, pardon me
+- The evidence suggests..., pace Professor Jones, that...
+
+# 5. crim-: crime
+
+* crime
++ [n]: a very serious mistake; a huge regret.
+- It would be a crime to travel all the way to Australia and not stop in Sydney.
+
+* criminal
++ [n]: a person who has committed a crime.
+- you are a criminal
++ [adj]: relating to crime
+- they are charged with conspiracy to commit criminal damage.
+
+* criminology
++ [n]: the interdisciplinary study of crime and deviant behavior.
+
+* decriminalize
++ [v]: stop treating (something) as illegal or as a criminal offense.
+- Do you think we should decriminalize alcohol?
+- The question of whether prostitution should be decriminalized.
+
+* criminalize
++ [v]: turn an activity or someone into a criminal offense by making it illegal.
+- His view is that the state should not criminalize drug use but discourage it.
+- These punitive measures would further criminalize travelers for their way of life.
+
+* incriminate
++ [v]: to charge with or show evidence or proof of involvement in a crime or fault, accuse.
++ [v]: to cause to appear guilty of or responsible for something.
+- from "in crime"
+- He claimed that the drugs had been planted to incriminate him.
+
+* incriminating
++ [adj]: making someone appear guilty of a crime or wrongdoing.
+- incriminating evidence
+
+* recriminate
 + [v]
-- The evidence suggests, pace Professor Jones, that...
 
+* recrimination
++ [n]
+- The bitter arguments and recriminations have finally ended the relationship.
 
+# 6. prov-, prob-: prove, proof
 
-*
+* probe
++ [v]
+- They probed into his background.
++ [n]
+- a fiber-optic probe
 
-*
+* approbation
++ [n]
+- That plan has the approbation of the school board.
 
-*
+* Approval
++ [v]
 
+* probate
++ [v]
 
-*
+* probity
++ [n]
+- a model of probity
 
-*
+* reprobate
++ [n]: the person who needs to re-prove his argument; an unprincipled person.
++ [n]: someone who behaves in an immoral way, often used humorously.
+- He had to present himself as more of a lovable reprobate than a spirit of corruption.
++ [adj]: unprincipled
+- reprobate behavior
 
-*
+* disprove
++ [v]
+- The statistics will prove or disprove his hypothesis.
 
-*
+# 7. grav-: heavy, serious, weight
 
-*
+* gravity
++ [n]: the force that attracts a body towards the center of the earth, or towards any other physical body having mass.
++ [n]: seriousness, severity, extreme importance
+- The gravity of their crime.
 
-*
+* gravitation
++ [n]: the force of attraction that bodies exert on one another as a result of their mass.
 
-*
+* grave
++ [n]: used as an allusive term for death.
++ [adj]: giving cause for alarm; serious.
++ [adj]: serious or solemn in manner or appearance.
+- Something is very grave.
 
-*
+* gravitas
++ [n]: solemn dignity
+- The gravitas you might expect of a Nobel prize winner.
 
-*
+* gravitate
++ [v]: move towards or be attracted to a person or something.
+- gravitate to something = be attracted to/by something
+- Moths gravitate to a flame.
+- You naturally gravitate toward people with shared values.
+- Young people gravitate to their role models.
 
-*
+* aggravate
++ [v]: make something grave.
+- Stress and lack of sleep can aggravate this situation.
+- My lower back problem is aggravated.
 
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
+* 
 
 *
 
