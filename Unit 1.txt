@@ -283,13 +283,22 @@
 + [n]: a large heavily built crow with mainly black plumage.
 + [v]: hunt voraciously for prey; devour voraciously.
 
-*
+# 8. lev-: light, rise
 
-*
+* elevator
++ [n]: lifter
 
-*
+* elevation
++ [n]: height above a given level, especially sea level.
++ [n]: the action or fact of raising or being raised to a higher or more important level, state, or position.
+≈ promotion
 
-*
+* levitation
++ [n]: the action of rising or causing something to rise and hover in the air.
+
+* levity
++ [adj]: lack of respect or seriousness when you are dealing with something serious.
+- levity ↔ grave
 
 *
 
