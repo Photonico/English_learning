@@ -300,9 +300,20 @@
 + [adj]: lack of respect or seriousness when you are dealing with something serious.
 - levity ↔ grave
 
-*
+* alleviate
++ [v]: make something levity.
+- alleviate ↔ aggravate
+- A great deal can be done to alleviate back pain.
+- Several measures were taken to alleviate the problem.
 
-*
+* lever
++ [n]: a rigid bar resting on a pivot, used to move a heavy or firmly fixed load with one end when pressure is applied to the other.
+- Archimedes, "Give me a place to stand, and a lever long enough, and I will move the world."
++ [v]: lift or move with a lever.
+- She levered the lid off the pot with a screwdriver.
 
-*
+* Leverage
++ [n]: 
+- His position as mayor gives him leverage to get things done.
+
 
