@@ -248,7 +248,42 @@
 + [adj]: extremely small
 + [adj]: [Math] a value approaching zero
 
-# 13. [ject]:
+# 13. [ject]: throw, hurl
+
+* reject
++ [v]:
+
+* react
++ re-: return
++ [v]:
+
+* Project
++ pro-: forward
++ [v]: 
++ [n]: 
+
+* projection
++ [n]:
+- [Physics] projection operator
+
+* projector
++ [n]:
+
+* eject
++ ex-: outward
++ [n]:
+
+* ejaculate
++ [v]: [Old-fashioned]: exclaim
++ [v]:
++ [n]:
+
+* interject
++ inter-: between
++ [v]:
+- "That's absolute rubbish!" he interjected.
+
+* conject
 
 # 14. [tract]: 
 
