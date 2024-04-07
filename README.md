@@ -1,13 +1,7 @@
-# English Vocabulary Builder
+# English learning for Mandarin native speakers
 
-My note for Merriam-Webster's Vocabulary Builder
+1. Merriam-Webster's Vocabulary Builder video lessons
 
-Reference course videos (for Mandarin native speakers):
+Volume 1: <https://www.bilibili.com/video/BV1RJ411T7Qx>
 
-1. Volume 1: <https://www.bilibili.com/video/BV1RJ411T7Qx>
-
-2. Volume 2: <https://www.bilibili.com/video/BV1y34y1C77H>
-
-Noted by Lu Niu
-
-Email: <LukeNiu@outlook.com>
+Volume 2: <https://www.bilibili.com/video/BV1y34y1C77H>
