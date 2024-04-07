@@ -2,7 +2,7 @@
 
 ## Unit 1
 
-# 1. -bene: good, well
+# 1. [bene]: good, well
 
 * benefit
 + [n]: an advantage or profit gained from something.
@@ -54,7 +54,7 @@
 * benediction
 + [n]
 
-# 2. -am: love
+# 2. [am]: love
 
 * amiable
 + [adj]: friendly
@@ -85,7 +85,7 @@
 + [n]
 - He wished to live in amity with his neighbor.
 
-# 3. -bell: war
+# 3. [bell]: war
 
 * Bellona
 + [n]: Goddess of war
@@ -129,7 +129,7 @@
 * casus belli (from French)
 + [n]: an act or situation that provokes or justifies a war.
 
-# 4. -pac: peace
+# 4. [pac]: peace
 
 * pacific
 + [adj]: making or tending to make peace; appeasing; conciliatory.
@@ -165,7 +165,7 @@
 ≈ excuse me, pardon me
 - The evidence suggests..., pace Professor Jones, that...
 
-# 5. crim-: crime
+# 5. [crim]: crime
 
 * crime
 + [n]: a very serious mistake; a huge regret.
@@ -207,7 +207,7 @@
 + [n]
 - The bitter arguments and recriminations have finally ended the relationship.
 
-# 6. prov-, prob-: prove, proof
+# 6. [prov], prob-: prove, proof
 
 * probe
 + [v]
@@ -240,7 +240,7 @@
 + [v]
 - The statistics will prove or disprove his hypothesis.
 
-# 7. grav-: heavy, serious, weight
+# 7. [grav]: heavy, serious, weight
 
 * gravity
 + [n]: the force that attracts a body towards the center of the earth, or towards any other physical body having mass.
@@ -283,7 +283,7 @@
 + [n]: a large heavily built crow with mainly black plumage.
 + [v]: hunt voraciously for prey; devour voraciously.
 
-# 8. lev-: light, rise
+# 8. [lev]: light, rise
 
 * elevator
 + [n]: lifter
@@ -326,5 +326,5 @@
 - A government or organization levies a tax.
 
 * relieve
-+ [v]
++ [v]:
 - Drugs can relieve much of the pain.
