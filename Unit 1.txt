@@ -38,7 +38,7 @@
 + [n]
 
 * bonus
-- bene → bonu
+- [bene] → [bonu]
 + [n]
 - North Sea oil has proved a bonus for British technology
 
@@ -169,7 +169,7 @@
 
 * crime
 + [n]: a very serious mistake; a huge regret.
-- It would be a crime to travel all the way to Australia and not stop in Sydney.
+- It would be a crime to travel (all the way) to Australia and not stop in Sydney.
 
 * criminal
 + [n]: a person who has committed a crime.
@@ -313,7 +313,18 @@
 - She levered the lid off the pot with a screwdriver.
 
 * Leverage
-+ [n]: 
++ [n]: Influence
 - His position as mayor gives him leverage to get things done.
 
+* cantilever
++ [n]: a rigid structural element that extends horizontally and is unsupported at one end.
+- In the gym, the cantilever is often used for pullups.
 
+* levy
++ [n]: an act of levying a tax, fee, or fine.
+- levy is (of a government or organization) to demand an amount of money, such as a tax, from a person or organization.
+- A government or organization levies a tax.
+
+* relieve
++ [v]
+- Drugs can relieve much of the pain.
