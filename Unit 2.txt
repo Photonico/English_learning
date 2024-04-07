@@ -43,5 +43,5 @@
 
 * kleptomaniac
 + klepto-: maniac and steal
-+ [n]: a mental illness in which somebody has a strong desire, which they cannot control, to steal tings.
++ [n]: a mental illness in which somebody has a strong desire, which they cannot control, to steal things.
 
