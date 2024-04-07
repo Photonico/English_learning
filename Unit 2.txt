@@ -306,6 +306,9 @@
 * deject
 + [v]
 
+* abject
++ a-, ab-, abs-: away, from
+
 # 14. [tract]: 
 
 # 15. [duct]:
