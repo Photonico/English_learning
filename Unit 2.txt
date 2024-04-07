@@ -28,7 +28,7 @@
 * magnify
 + [v]: make (something) appear larger than it is, especially with a lens or microscope.
 - the retinal image will be magnified.
-- magnify ↔ minimize
++ magnify ↔ minimize
 
 * alcoholic
 + [n]: a person who is unable to give up the habit of drinking too much alcohol.
@@ -195,6 +195,7 @@
 - I incepted a PhD degree in Physics.
 
 * inception
++ [n]:
 
 * conception
 + [n]: pregnancy
@@ -212,6 +213,45 @@
 # 12. fin-: end, boundary (from Latin)
 
 * finish
++ [v]: complete
++ [adj]: complete
 
 * final
++ [adj]: the last one
 
+* finalize
++ [v]:
+
+* fin
++ [n]: a flattened appendage on various parts of the body of many aquatic vertebrates, including fish and cetaceans, and some invertebrates, used for propelling, steering, and balancing.
+
+* finale
++ [n]: end
+
+* confine
++ [v]: to keep or close within bounds; limit; restrict
+- Arthritis confined him to bed.
+
+* define
++ [v]: state or describe exactly the nature, scope, or meaning of
++ [v]: mark out the boundary or limits of
+- Do not define me.
+
+* definitive
++ [adj]: authoritative; complete and final
+
+* infinite
++ [adj]: limitless or endless in space, extent, or size; impossible to measure or calculate
++ [adj]: [Math] greater than any assignable quantity or countable number
+
+* infinitesimal
++ [adj]: extremely small
++ [adj]: [Math] a value approaching zero
+
+# 13. -ject:
+
+# 14. -tract: 
+
+# 15. -duct:
+
+# 16. sequ-:
