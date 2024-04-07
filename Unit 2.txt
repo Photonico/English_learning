@@ -291,6 +291,21 @@
 + [v]: 
 + [n]: 
 
+* trajectory
++ tra-: trans, across
++ [n]
++ [n]: [Math]
+- the trajectory of matrices
+
+* jet
++ [n]
+- Her private jet landed in the republic on the way to Japan.
++ [n]
+- A jet of water poured through the windows.
+
+* deject
++ [v]
+
 # 14. [tract]: 
 
 # 15. [duct]:
