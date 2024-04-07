@@ -45,3 +45,36 @@
 + klepto-: maniac and steal
 + [n]: a mental illness in which somebody has a strong desire, which they cannot control, to steal things.
 
+* maniac-depressive
++ [n]: A condition with alternating mood swings from highs (mania) to lows (depression).
+- She was diagnosed as manic-depressive, experiencing both extreme joy and deep sadness.
+
+* bibliomania
++ [n]: Excessive obsession with collecting books.
+- His bibliomania led him to fill every room in his house with books.
+
+* pyromaniac
++ pyro-: fire
++ [n]: A person with a compulsion to start fires.
+- The fire investigator determined that a pyromaniac was likely behind the series of arsons.
+
+* Gallomaniac
++ Gallo-: Gaule
++ [n]: Someone obsessed with French culture.
+- As a Gallomaniac, she dreamed of moving to Paris and living like a local.
+
+* Anglomaniac
++ [n]: A person obsessed with English culture.
+- He became an Anglomaniac after studying in London, adopting British mannerisms and style.
+
+* nymphomaniac
++ nymph-: [Mythology] beautiful maidens dwelling in the mountains, forests, trees, and waters; girls.
++ [n]: A person with an excessive sexual desire.
+- In the novel, the character was wrongly labeled a nymphomaniac, a reflection of society's misunderstanding.
+
+* erotomaniac
++ [n]: excessive sexual desire
++ [n]: Someone who believes another person is in love with them, despite no evidence.
+- The movie's plot centered around an erotomaniac's delusion about a famous actress.
+
+# 10. psych-: spirit, mind
