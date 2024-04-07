@@ -283,7 +283,13 @@
 + [v]:
 - "That's absolute rubbish!" he interjected.
 
-* conject
+* Conject
++ [v]: 
+- Columbus conjectured from his calculations that he could reach Asia by sailing westward and his conjecture was proved correct.
+
+* conjecture
++ [v]: 
++ [n]: 
 
 # 14. [tract]: 
 
