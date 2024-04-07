@@ -80,8 +80,10 @@
 # 10. psych-: spirit, mind, soul
 
 * psychology
++ [n]:
 
 * psychologist
++ [n]:
 
 * psyche
 + [n]:
@@ -92,6 +94,124 @@
 + [v]: mentally prepare for something very important. 
 - psych somebody out (of something) ≈ freak somebody out (of something)
 - psych somebody/yourself up for something: psych yourself up for the upcoming exam.
++ [adj]: [Informal] fake
+- can be written as "sike"
 
 * psychic
 + [n]:
++ [adj]:
+
+* psycho
++ [n]:
+- So crazy, you are a psycho!
+
+* psychedelic
++ [adj]:
+- a psychedelic light show
+- a kind of psychedelic drug
+
+* psychotherapy
++ [n]: treatment of a mental or emotional disorder or related bodily ills by means.
+- For milder depression, certain forms of psychotherapy do work well.
+
+# 11. capt-: take, seize
+
+* Capture
++ [v]: take into one's possession or control by force.
+- Take into one's possession or control by force.
++ [v]: record accurately in words or pictures.
+- She did a series of sketches, trying to capture all his moods.
++ [n]: the action of capturing or of being captured.
+- the capture of the city
+
+* captor
++ [n]: a person who has captured a person or animal and refuses to release them.
+
+* captive
++ [n]: a person who has been taken prisoner or an animal that has been confined.
+- A captor captures a captive
++ [adj]:
+- a captive animal
+- During the COVID-19 period, people are captive.
+
+* caption
++ [v]:
++ [n]:
+
+* captious
++ [adj]: fault-finding; attempt to make trivial criticisms
+
+* captivate
++ [v]: 
+- I was captivated by her brilliant mind.
+- The reason I became a physics PhD is that I am captivated by the subtlety of nature.
+
+* Receive
++ [v]:
+
+* Reception
++ [n]:
+- At the reception they served smoked salmon.
+
+* intercept
++ [v]: obstruct (someone or something) to prevent them from continuing to a destination.
+- Gunmen intercepted him on his way to the airport.
+- the interception of enemy radio signals.
+
+* except
++ [prep]: not including, other than, but
+- The stores will be open daily except Sundays.
+- Excepting (except for) one student, no one could answer the questions correctly. 
+- Everyone was invited except me.
+
+* Exceptional
++ [adj]: awesome, excellent
+
+* perceptible
++ per-: through
++ [adj]: capable of being perceived, recognizable, appreciable
+- a perceptible change in his behavior.
+
+* susceptible
++ sus-: Super
++ [adj]:
+- Young people are the most susceptible to advertisements.
+- Students are susceptible to the teaching of a creative teacher.
+
+* accept
++ a-: strengthen
++ [v]: consent to receive or undertake (something offered)
+- He accepted a pen as a present.
+- I accept her offer of marriage.
++ [v]: believe or come to recognize (a proposition) as valid or correct
+- This tentative explanation came to be accepted by the men.
+
+* concept
++ [n]: 
+- the concept of arranged marriages
+
+* incept
++ [v]: 
+- I incepted a PhD degree in Physics.
+
+* inception
+
+* conception
++ [n]: pregnancy
+
+* conceive
++ [v]:
++ [v]:
+
+* deceive
++ [v]:
+
+* contraception
++ [v]:
+
+# 12. fin-: end, boundary (from Latin)
+
+* finish
+
+* final
+
