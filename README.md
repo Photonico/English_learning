@@ -10,11 +10,11 @@
 
        Bilibili: <https://www.bilibili.com/video/BV1y34y1C77H>
 
-3. Khan Academy, English Grammar course
+2. Khan Academy, English Grammar course
 
     Bilibili: <https://www.bilibili.com/video/BV12Q4y1Q7M>
 
-4. TED-Ed Popular science
+3. TED-Ed Popular science
 
     Bilibili: <https://www.bilibili.com/video/BV1Ui421X7q2>
 
